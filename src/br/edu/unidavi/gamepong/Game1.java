@@ -2,10 +2,7 @@ package br.edu.unidavi.gamepong;
 import java.io.IOException;
 import javaPlay.GameEngine;
 
-/**
- * Classe que define a incialização do Game Pong
- * @author marcondes
- */
+
 public class Game1 {
      
     public static void main(String[] args) throws IOException {

@@ -4,10 +4,7 @@ import java.awt.Graphics;
 import javaPlay.GameObject;
 import javaPlay.Sprite; 
 
-/**
- * Classe de definição o objeto Barra
- * @author marcondes
- */
+
 class Barra extends GameObject {
     
     Sprite sprite;

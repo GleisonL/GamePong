@@ -4,10 +4,7 @@ import java.awt.Graphics;
 import javaPlay.GameObject;
 import javaPlay.Sprite;
 
-/** 
- * Classe de definição o objeto bola
- * @author marcondes
- */
+
 class Bola extends GameObject {
     
     Sprite sprite;

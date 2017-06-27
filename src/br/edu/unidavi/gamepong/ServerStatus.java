@@ -1,9 +1,6 @@
 package br.edu.unidavi.gamepong;
 
-/**
- *
- * @author Patrick Willian
- */
+
 public class ServerStatus implements Runnable{
     private final Servidor servidor;
     
